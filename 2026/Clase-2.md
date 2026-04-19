@@ -17,3 +17,4 @@
 ## Ejercitación para la casa
 * [Ejercicio Pattern Matching y Guardas](https://docs.google.com/document/d/1Y6pD6No5Iqm2cZa7tcjdxELJCVupy4KujIBp1TMMJb0/edit?usp=sharing)
 * [Asignatura en classroom](https://classroom.github.com/a/nepbiAIZ)
+Es tarea para el 24/04/2026
