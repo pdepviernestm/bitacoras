@@ -1,4 +1,4 @@
-# Introducción a la Materia
+# Funciones y Composición
 
 ![](fotos/gatito-bailarin.gif)
 
