@@ -10,7 +10,7 @@
 * Apunte: [Funcional \- Módulo 3](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI/edit?tab=t.0)
 
 * Video: [Aplicacion parcial y composición](https://www.youtube.com/watch?v=CSMljUwpE-s&t=548s) (2h) 
-* Video: [Tuplas, listas y Clases](https://www.youtube.com/watch?v=K_56_YFCHD8)  (28m)
+* Video: [Tuplas, listas y data](https://www.youtube.com/watch?v=K_56_YFCHD8)  (28m)
 
 ## Ejercitación para la casa
 * Miyuki:  Capitulo 5 con ejercicios del 1 al 4 \. Totalidad de los capitulos 7, 8 y 9 **(práctica)**
