@@ -1,8 +1,8 @@
-# Introducción a la Materia
+# Guardas y patter matching
 
 ![](fotos/paro.jpeg)
 
-**Fecha**: viernes 18/04/2026
+**Fecha**: viernes 17/04/2026
 ## Visto en la clase
 * Apunte: [Funcional \- Módulo 1](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?tab=t.0)  
   * Las secciones 1-4 ya se vieron  
