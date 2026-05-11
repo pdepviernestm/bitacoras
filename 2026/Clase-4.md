@@ -18,5 +18,5 @@
 * Miyuki:  Totalidad de los capitulos 5, 6, 9, 10 y 13 **(práctica)**
 
 ## Recordatorio 
-* El viernes 15 de mayo tenemos tp individual, va a ser de a dos y en computadora, pueden traer sus propias computadoras.
+* El viernes 15 de mayo tenemos tp "individual", va a ser de a dos y en computadora, pueden traer sus propias computadoras. La dinámica va a ser similar al del tp anterior así que les recomendamos empezar a practicar. 
 
