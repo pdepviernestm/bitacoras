@@ -1,4 +1,4 @@
-# Orden superior y
+# Orden superior y lambdas
 
 ![](fotos/travolta.gif)
 
