@@ -1,4 +1,4 @@
-# Patrones de listas Recursividad Fold y test
+# Patrones de listas, recursividad, Foldl y Test
 
 ![](fotos/pooh-bear.gif)
 
@@ -9,7 +9,7 @@
 * Video: [Fold](https://www.youtube.com/watch?v=veiQkxz59NE)  
 * Apunte: [Tests](https://docs.google.com/document/d/1GgfVtmyuAvDsRMnA--tP8wRYZnHf7PJDbHLEL7lo8Cw/edit?usp=sharing)
 ## Ejercitación para la casa
-* Miyuki:Todo menos los de evalucación diferida y listas infinitas.
+* Miyuki: Todo menos los de evalucación diferida y listas infinitas.
 
 
 
