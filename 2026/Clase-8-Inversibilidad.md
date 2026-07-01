@@ -1,7 +1,7 @@
 # Reglas, universo cerrado, predicados, hechos, individuos, aridad.
 ![](https://i.ytimg.com/vi/wUUCyC3k-rk/maxresdefault.jpg)
 
-**Fecha**: viernes 12/06/2026
+**Fecha**: viernes 19/06/2026
 ## Visto en la clase
 * enunciado: [El patio de pepe](https://docs.google.com/document/d/1ij5n_AaEtWDIE7aNfM_ZrCpvpJE48bTAntLx6yxoeag/edit?usp=sharing)
 * codigo: [hecho en clases]([https://github.com/pdepviernestm/into-logico-2026](https://github.com/pdepviernestm/el-patio-de-pepe))
