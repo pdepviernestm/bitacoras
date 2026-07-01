@@ -1,4 +1,4 @@
-#Inversibilidad. Negación. Aritmética. Cuantificación universal.
+# Inversibilidad. Negación. Aritmética. Cuantificación universal.
 ![](fotos/MachetitoDeNomenclatura.png)
 
 **Fecha**: viernes 12/06/2026
