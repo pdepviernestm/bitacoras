@@ -115,9 +115,9 @@ object salta {
 }
 ```
 ## Para estudiar
-[un video super recomendable](https://www.youtube.com/watch?v=eSYDeF-TcsE)
-Hay nueva versión me miyuki!!!! en esta funciona el paradigma de objetos!!! Actualiceeeenn!!!!
-https://github.com/miyukiproject/miyuki/releases/tag/pdep%2Fv1.0.8 
+* [un video super recomendable](https://www.youtube.com/watch?v=eSYDeF-TcsE)
+* Hay nueva versión me miyuki!!!! en esta funciona el paradigma de objetos!!! Actualiceeeenn!!!!
+[](https://github.com/miyukiproject/miyuki/releases/tag/pdep%2Fv1.0.8) 
 
 ## Para resolver en casa
 [Peligro por distacción](https://docs.google.com/document/d/1jc2JU2OcDf--hwlSViW7CrKnrvxYYhITR_DJrBT0zjM/edit?tab=t.0)
