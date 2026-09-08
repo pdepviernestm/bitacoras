@@ -15,6 +15,8 @@
 | Ejecuto | llamo procedimientos | llamo funciones | hago consultas | envio mensajes |
 | variable | lugar en memoria | definición (son inmutables) | incognita | referencias |
 | ¿=? | Asignación | equivalencia | igualdad | asignar  |
+
+
 Durante clases hicimos este cuadro para ir viendo las diferencias entre cada paradigma y objetos. 
 
 ![](fotos/caramelitos.jpeg)
