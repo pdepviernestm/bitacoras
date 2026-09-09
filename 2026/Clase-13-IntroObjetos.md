@@ -68,6 +68,7 @@ object pepita {
     const costoFijo = 10
     var energia = 200
     var lugar = catamarca
+}
 ``` 
 El lugar va a cambiar, así que tiene sentido que sea variable
 ``` js
