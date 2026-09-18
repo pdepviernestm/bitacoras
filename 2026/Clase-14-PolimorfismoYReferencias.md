@@ -9,7 +9,7 @@ En clases vimos un ejercicio que nos sirvió para entender polimorfismo, referen
 
 ## Ejercicio resuelto entre todos 
 Realizamos el ejercicio [futbol](https://docs.google.com/document/d/1UjqSQwO5zY1jTvHR-4gDwkDSxX-8xtIw93Bfm5DGZrk/edit?usp=sharing).
- [Resuelto](https://github.com/pdepviernestm/2026-clases/blob/main/futbol2.wlk)
+y les dejamos el [Resuelto](https://github.com/pdepviernestm/2026-clases/blob/main/futbol2.wlk)
 ## Tp visto en clase
 Buenas en clase vimos el tp con este 
 [enunciado](https://docs.google.com/document/d/1VvgX68V5NGKL4kTlqXyhP7znHAKcIb_H7f0jZIrH8l0/edit?usp=sharing
