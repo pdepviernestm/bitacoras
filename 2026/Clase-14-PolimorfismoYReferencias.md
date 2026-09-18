@@ -2,6 +2,7 @@
 
 
 **Fecha**: viernes 11/9/2026
+
 ![Views](https://github-views-counter-scnx.onrender.com/github/pdepviernestm/bitacoras/2026/Clase-14-PolimorfismoYReferencias.md.svg?color=green&style=flat-square)
 
 ## Sobre lo visto en clase
