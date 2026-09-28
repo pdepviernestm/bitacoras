@@ -2,12 +2,13 @@
 
 > **Fecha**: Viernes 25/09/2026
 
+![Views](https://github-views-counter-scnx.onrender.com/github/pdepviernestm/bitacoras/2026/Clase-15-BloquesYWollokGame.md.svg?color=green&style=flat-square)
 
 ## 📌 Sobre lo visto en clase
 
 1. **Repaso Teórico**: Concepto de **polimorfismo**
 2. **Introducción a Wollok Game**: Presentación de la biblioteca y su importancia.
-3. **Bloques, tick y colisiones**: Desarrollando el código del [Juego Básico de Pepita](https://github.com/wollok/elJuegoDePepita/tree/3-game-bloques).
+3. **Bloques, tick y colisiones**: Desarrollando el código del [Juego Básico de Pepita](https://github.com/pdepviernestm/2026-clases/tree/main/clase15).
 
 4. **Chequeo de TP game**: Entrega 0 según el [Cronograma TP](https://docs.google.com/document/d/14axH8tRPGwCBfm3dVypzbikml5k-lJGqsrFteHT36BA/edit?tab=t.0#heading=h.cr9wf5xn9w1r), cuyo objetivo fue definir la idea del game para las próximas entregas.
 
@@ -31,6 +32,6 @@
 
 * [Documentación oficial de Wollok Games](https://www.wollok.org/documentation/wollok_game/)
 * [Enunciado de Pepita](https://github.com/wollok/elJuegoDePepita/tree/master): Contiene los diferentes tutoriales vistos en clase
-* [Pepita Game (rama: 3-game-bloques)](https://github.com/wollok/elJuegoDePepita/tree/3-game-bloques): Posee el código hecho en clase
+* [Pepita Game (rama: 3-game-bloques)](https://github.com/pdepviernestm/2026-clases/tree/main/clase15): Posee el código hecho en clase
 * [Juegos desarrollados en Wollok Game](https://www.wollok.org/material/games/)
 *  [Cronograma y requerimientos del TP](https://docs.google.com/document/d/14axH8tRPGwCBfm3dVypzbikml5k-lJGqsrFteHT36BA/edit?tab=t.0#heading=h.cr9wf5xn9w1r)
