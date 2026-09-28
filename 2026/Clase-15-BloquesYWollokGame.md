@@ -32,6 +32,6 @@
 
 * [Documentación oficial de Wollok Games](https://www.wollok.org/documentation/wollok_game/)
 * [Enunciado de Pepita](https://github.com/wollok/elJuegoDePepita/tree/master): Contiene los diferentes tutoriales vistos en clase
-* [Pepita Game (rama: 3-game-bloques)](https://github.com/pdepviernestm/2026-clases/tree/main/clase15): Posee el código hecho en clase
+* [Pepita Game](https://github.com/pdepviernestm/2026-clases/tree/main/clase15): Posee el código hecho en clase
 * [Juegos desarrollados en Wollok Game](https://www.wollok.org/material/games/)
 *  [Cronograma y requerimientos del TP](https://docs.google.com/document/d/14axH8tRPGwCBfm3dVypzbikml5k-lJGqsrFteHT36BA/edit?tab=t.0#heading=h.cr9wf5xn9w1r)
