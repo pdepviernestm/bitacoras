@@ -1,4 +1,4 @@
-# Polimorfismo y referencias
+# Colecciones y Clases
 
 <img width="35%" height="50%" alt="image" src="https://github.com/user-attachments/assets/60d11750-188b-4d5d-964b-b0fd8d441f73" />
 
