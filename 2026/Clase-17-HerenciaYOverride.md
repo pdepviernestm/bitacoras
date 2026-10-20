@@ -1,6 +1,5 @@
 # Herencia y Override
-
-<img width="40%" height=auto alt="image" src="https://github.com/user-attachments/assets/60d11750-188b-4d5d-964b-b0fd8d441f73" />
+![Views](https://github-views-counter-scnx.onrender.com/github/pdepviernestm/bitacoras/2026/Clase-17-HerenciaYOverride.md.svg?color=green&style=flat-square)
 
 **Fecha**: viernes 9/10/2026
 ## Teoría vista durante la clase
