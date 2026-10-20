@@ -1,9 +1,14 @@
 # Clases abstactas y super
 <img width="736" height="686" alt="image" src="https://github.com/user-attachments/assets/f87e32c0-7063-41c1-8385-57787e99850b" />
+
 ![Views](https://github-views-counter-scnx.onrender.com/github/pdepviernestm/bitacoras/2026/Clase-18-ClasesAbstractasYSuper.md.svg?color=green&style=flat-square)
 
 fecha: 16/10/2026
-
+## Visto en clase
+[Enunciado](https://docs.google.com/document/d/1bfjE3ipDvPcWBQBgYCxnL1DIhuaKDwgB_wurK1DB4vo/edit?usp=sharing)
+## Material
+* [clase abstracta y super](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=sharing)
+* [Video ](https://www.youtube.com/watch?v=bTaIWujOfMw)
 ## Explicación de lo visto en clase
 1)
   a)
