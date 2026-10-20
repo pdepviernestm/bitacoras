@@ -1,4 +1,6 @@
 # Clases abstactas y super
+<img width="736" height="686" alt="image" src="https://github.com/user-attachments/assets/f87e32c0-7063-41c1-8385-57787e99850b" />
+![Views](https://github-views-counter-scnx.onrender.com/github/pdepviernestm/bitacoras/2026/Clase-18-ClasesAbstractasYSuper.md.svg?color=green&style=flat-square)
 
 fecha: 16/10/2026
 
