@@ -123,7 +123,15 @@ object preferencial {
 
 ```
 ### Diagrama estático
-Este es el diagrama estático autoría del compañero docente gabriel galatro
+Este es el diagrama estático autoría del compañero docente gabriel galatro. 
+Recordemos como pensamos la relaciones en un diagrama :
+ Tipo            | Símbolo  | Finalidad                                          	 |
+| -------------- | -------- | --------------------------------------------------	 |
+| Herencia       | ``--[>`` | Indicar que una clase es subclase de otra				 |
+| Implementación | ``..[>`` | Indicar que un objeto o clase implementa un contrato	 |
+| Asociación     | ``-->``  | Indicar que un objeto o clase tiene a otro			 |
+| Dependencia    | ``..>``  | Indicar que un objeto o clase tiene a otro	 		 |
+
 <img width="871" height="655" alt="image" src="https://github.com/user-attachments/assets/a0947728-b817-48d3-a65e-3456feb8eb91" />
 
 chauuu
