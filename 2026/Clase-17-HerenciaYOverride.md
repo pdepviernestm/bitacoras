@@ -4,6 +4,7 @@
 ![Views](https://github-views-counter-scnx.onrender.com/github/pdepviernestm/bitacoras/2026/Clase-17-HerenciaYOverride.md.svg?color=green&style=flat-square)
 
 **Fecha**: viernes 9/10/2026
+
 ## Teoría vista durante la clase
 ### Herencia
 La herencia es una herramienta que nos permite compartir código en distintas clases con estructura jerárquica de super clases y sub clases. 
@@ -35,6 +36,7 @@ Al principio, la **clase actual es `C`**, por ser la clase a partir de la cual i
     <img width="441" height="491" alt="image" src="https://github.com/user-attachments/assets/d3320c33-767d-4134-81b8-e6ff657ba1b2" />
 
 ### Ejercicio de la clase
+Resolvimos el [enunciado](https://docs.google.com/document/d/1R5bDBNUJSuBdMThCrNW82MUyx4FPOFeiAXdraGSEM3s/edit?usp=sharing) de esta manera.
 1) Se define la clase base con su estado interno expuesto mediante propiedades. Se centraliza la lógica matemática en métodos específicos. Se introduce un método auxiliar `dineroPendiente()` para evitar repetición de lógica y mantener la cohesión interna al momento de calcular los intereses.
 ```wollok
 class Deuda {
