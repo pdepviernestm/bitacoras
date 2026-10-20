@@ -122,3 +122,8 @@ object preferencial {
 }
 
 ```
+### Diagrama estático
+Este es el diagrama estático autoría del compañero docente gabriel galatro
+<img width="871" height="655" alt="image" src="https://github.com/user-attachments/assets/a0947728-b817-48d3-a65e-3456feb8eb91" />
+
+chauuu
