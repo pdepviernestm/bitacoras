@@ -1,4 +1,6 @@
 # Herencia y Override
+<img width="184" height="274" alt="image" src="https://github.com/user-attachments/assets/56b610fe-61e3-478f-b647-797b6c9b1bf4" />
+
 ![Views](https://github-views-counter-scnx.onrender.com/github/pdepviernestm/bitacoras/2026/Clase-17-HerenciaYOverride.md.svg?color=green&style=flat-square)
 
 **Fecha**: viernes 9/10/2026
